@@ -52,6 +52,6 @@
 
 <p align="center">
 <a href="https://www.victorwhyte.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.victorwhyte.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/thevictorwhyte/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/thevictorwhyte/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Victor%Whyte-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:victordavidwhyte@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-victordavidwhyte@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
