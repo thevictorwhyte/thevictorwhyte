@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Design minded full-stack developer, passionate about building functional, user centered and aesthetically pleasing software.
+- 🤔 &nbsp; Design minded full-stack developer, passionate about building functional, user-centered and aesthetically pleasing software.
 - 🎓 &nbsp; B.Eng in Electrical/Electronics Engineering with first class honours.
 - 🌱 &nbsp; Learning more about blockchain development and machine learning.
 
